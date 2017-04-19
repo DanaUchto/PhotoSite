@@ -139,9 +139,9 @@ img.dana1 {
 
 
 /*visited link*/
-/*li a:visited  {
+li a:visited  {
 	color: #2697b1; 
-}*/
+}
 
 /* mouse over link */
 li a:hover {
