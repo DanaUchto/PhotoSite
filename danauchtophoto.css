@@ -131,6 +131,13 @@ img.dana1 {
     border: none;
 }
 
+img.lanscape{
+	width: 450px;
+    height: 450px;
+    padding: 20px;
+
+}
+
 .clear {
 	clear: both;
 }
