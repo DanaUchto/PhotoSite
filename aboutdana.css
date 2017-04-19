@@ -1,0 +1,120 @@
+
+body { 
+	background-image: url("kra.jpg");
+	font-family: "Papyrus", fantasy;
+}
+
+
+#header {
+	height: 200px;
+	width: 100%;
+
+}
+
+#site-title { 
+       text-align: center;
+       margin-top: 25px;
+       margin-bottom: 25px;
+       padding: 15px;
+}
+
+
+h1{
+	color: black;
+	font-size: 48px;
+	font-style: oblique;
+	line-height: 58px;
+	font-weight: bolder;
+
+
+}
+
+
+h2 {
+	color: black;
+    font-size: 38px;
+    font-style: oblique;
+    line-height: 48px;
+    font-weight: bolder;
+
+}
+
+
+.nav {
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-color: darkgray;
+	font-size: 22px;
+	line-height: 20px;
+	color: #2f2c2c;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+    
+
+}
+
+
+ 
+ ul li {
+ 	margin-left: 5px;
+ 	margin-right: 5px;
+ }
+
+ ul {
+    position: static; 
+    top: 30%;
+
+ 	
+ }
+
+li  {
+	display: inline;
+	float: left;
+	text-align: center;
+	padding: 10px ;
+	font-size: 22px;
+	
+}
+
+li a {
+	color: #ffffff;
+	text-align: center;
+	padding: 10px 12px; 
+	text-decoration: none;
+
+}
+
+/*visited link*/
+/*li a: visited{ 
+	color: #2697b1; 
+}*/
+
+
+/* mouse over link */
+li a:hover {
+	color: #2697b1;
+}
+
+li a:active {
+	color: #2697b1;
+}
+
+
+	
+p {
+text-align: center;
+font-size: 24px;
+font-weight: bolder;
+padding: 15px;
+}
+
+img {
+	padding: 25px;
+}
+
+
+
+
+
+
